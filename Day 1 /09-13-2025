@@ -1,37 +1,35 @@
-# Journal — 9-13-2025 — EXAMPLE DAY
-
-## 1) What I learned (bullets, not prose)
-- I learned how to write a learning journal
+# Journal — 9-13-2025
+## 1) What I learned 
+- The whys at the core: solving the business needs + maximizing tradeoffs
 
 ## 2) New vocabulary (define in your own words)
-- **term** — my definition
-- SQL - Structured Query language (https://www.w3schools.com/sql/sql_intro.asp)
+- Edge cases: this is the bulk of the work
+- SSOT
+- DBT
+- DLT
 
-## 3) Data Engineering mindset applied (what principles did I use?)
-- Move data once!
+## 3) Data Engineering mindset applied
+- Garbage in, garbage out
+- Raw-Clean-Mart
 
 ## 4) Decisions & assumptions (why, alternatives, trade-offs)
-- For an example exercise, I did X, because of Y
 
 ## 5) Open questions (things I still don’t get)
-- huhuhu, what is a data lake?
-
-![Alt text](../assets/what.jpg "what is this?")
+- How to utilize possible ways vs. initial tools/ techniques introduced to achieve the desired learnings/ outputs
 
 ## 6) Next actions (small, doable steps)
-- [ ] study git
+- prepare decent tech tools (ayusin laptop)
+- explore SQL in datacamp
+- prepare in advance for the week’s topics
 
 ## 7) Artifacts & links (code, queries, dashboards)
-- https://dataengineering.ph/
-
 ---
-
 ### Mini reflection (3–5 sentences)
 What surprised me? What would I do differently next time? What will I watch out for in production?
 
-I'm surprised at how cool git is!
-
+I'm surprised at how cool Metabase is! It’s the most helpful for my current line of work.
+Learning-wise, I need to channel a growth mindset. I’m showing up to learn from the best, even if my brain cells are fried and can barely keep up.
 
 ### BONUS: What is a meme that best describes what you feel or your learning today?
 
-![Alt text](../assets/meme.png "what is a data engineer?")
+![Alt text](../Day 1/d1-meme.jpg)
